@@ -17,10 +17,10 @@ https://github.com/hilalkrglmz/Travel-website-2nd-bootstrap-project/assets/14065
     </header>
     <div class="container">
         <h2>About Project</h2>
-           <p>It is a tarvel website model that was made by using bootstrap</p>
+           <p>It is a travel website model that was made by using bootstrap</p>
             <ul>
                 <li>HTML</li>
-                <li>cSS</li>
+                <li>CSS</li>
                 <li>BOOTSTRAP</li>
                 <li>JAVA SCRIPT</li>
             </ul>
