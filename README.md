@@ -27,7 +27,7 @@ https://github.com/hilalkrglmz/Travel-website-2nd-bootstrap-project/assets/14065
             <h2>SETUP and USE</h2>
         <ol>
             <li>Clone the project on your computer: <code>git clone https://github.com/hilalkrglmz/Travel-website-2nd-bootstrap-project</code></li>
-            <li>Go to the project folder: <code>cd Travel-website-2nd-bootstrap-projec</code></li>
+            <li>Go to the project folder: <code>cd Travel-website-2nd-bootstrap-project</code></li>
             <li>Open the project in your browser: <code>index.html</code></li>
         </ol>
     </div>
